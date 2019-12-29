@@ -1,0 +1,15 @@
+target/
+bin/
+logs/
+es/node_modules/
+project/project
+project/target
+.settings/
+.project
+.classpath
+.idea/*
+.g8/
+.gradle/
+*.war
+*.iml
+server.pid
